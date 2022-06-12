@@ -9,13 +9,13 @@
     "version": "5.0.1~ynh1",
     "url": "https://www.documize.com",
     "upstream": {
-        "license": "AGPL-3.0",
+        "license": "AGPL-3.0-only",
         "website": "https://www.documize.com",
         "demo": "https://demo.example.com",
         "admindoc": "https://docs.documize.com",
         "code": "https://github.com/documize/community"
     },
-    "license": "AGPL-3.0",
+    "license": "AGPL-3.0-only",
     "maintainer": {
         "name": "eric_G",
         "email": ""
