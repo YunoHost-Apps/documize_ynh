@@ -11,7 +11,7 @@
     "upstream": {
         "license": "AGPL-3.0-only",
         "website": "https://www.documize.com",
-        "demo": "https://demo.example.com",
+        "demo": "https://docs.documize.com/",
         "admindoc": "https://docs.documize.com",
         "code": "https://github.com/documize/community"
     },
