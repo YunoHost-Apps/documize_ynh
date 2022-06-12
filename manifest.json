@@ -1,0 +1,44 @@
+{
+    "name": "Documize",
+    "id": "documize",
+    "packaging_format": 1,
+    "description": {
+        "en": "Modern Confluence alternative designed for internal & external docs",
+        "fr": "Alternative à Confluence conçue pour les documents internes et externes"
+    },
+    "version": "5.0.1~ynh1",
+    "url": "https://www.documize.com",
+    "upstream": {
+        "license": "AGPL-3.0",
+        "website": "https://www.documize.com",
+        "demo": "https://demo.example.com",
+        "admindoc": "https://docs.documize.com",
+        "code": "https://github.com/documize/community"
+    },
+    "license": "AGPL-3.0",
+    "maintainer": {
+        "name": "eric_G",
+        "email": ""
+    },
+    "requirements": {
+        "yunohost": ">= 4.3.0"
+    },
+    "multi_instance": true,
+    "services": [
+        "nginx",
+        "mysql"
+    ],
+    "arguments": {
+        "install": [
+            {
+                "name": "domain",
+                "type": "domain"
+            },
+            {
+                "name": "is_public",
+                "type": "boolean",
+                "default": true
+            }
+        ]
+    }
+}
