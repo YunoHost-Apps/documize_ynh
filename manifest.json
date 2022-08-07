@@ -13,7 +13,8 @@
         "website": "https://www.documize.com",
         "demo": "https://docs.documize.com/",
         "admindoc": "https://docs.documize.com",
-        "code": "https://github.com/documize/community"
+        "code": "https://github.com/documize/community",
+        "cpe": "cpe:2.3:a:documize:documize"
     },
     "license": "AGPL-3.0-only",
     "maintainer": {
