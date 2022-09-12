@@ -6,14 +6,15 @@
         "en": "Modern Confluence alternative designed for internal & external docs",
         "fr": "Alternative à Confluence conçue pour les documents internes et externes"
     },
-    "version": "5.1.0~ynh1",
+    "version": "5.2.2~ynh1",
     "url": "https://www.documize.com",
     "upstream": {
         "license": "AGPL-3.0-only",
         "website": "https://www.documize.com",
         "demo": "https://docs.documize.com/",
         "admindoc": "https://docs.documize.com",
-        "code": "https://github.com/documize/community"
+        "code": "https://github.com/documize/community",
+        "cpe": "cpe:2.3:a:documize:documize"
     },
     "license": "AGPL-3.0-only",
     "maintainer": {
@@ -21,7 +22,7 @@
         "email": ""
     },
     "requirements": {
-        "yunohost": ">= 4.3.0"
+        "yunohost": ">= 11.0.9"
     },
     "multi_instance": true,
     "services": [
