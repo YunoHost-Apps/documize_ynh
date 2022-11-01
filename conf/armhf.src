@@ -1,5 +1,5 @@
-SOURCE_URL=https://github.com/documize/community/releases/download/v5.4.1/documize-community-linux-arm
-SOURCE_SUM=48bbfe1850966115029a52fcc9f145f6121ba7394e725350d077650426c2b904
+SOURCE_URL=https://github.com/documize/community/releases/download/v5.4.2/documize-community-linux-arm
+SOURCE_SUM=5bdffefbeb982f2d5cc193ba597b0fb6e692314fb802178a6cde5b6e83e90fd4
 SOURCE_SUM_PRG=sha256sum
 SOURCE_IN_SUBDIR=false
 SOURCE_FILENAME=documize
