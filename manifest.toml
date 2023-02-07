@@ -18,7 +18,7 @@ code = "https://github.com/documize/community"
 
 [integration]
 yunohost = ">= 11.1.6"
-architectures = "all"
+architectures = ["amd64", "arm64", "armhf"]
 multi_instance = true
 ldap =  false
 sso =  false
