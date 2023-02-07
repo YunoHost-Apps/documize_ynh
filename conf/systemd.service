@@ -1,5 +1,5 @@
 [Unit]
-Description=Documize
+Description=Documize: internal & external docs
 After=network.target
 
 [Service]
