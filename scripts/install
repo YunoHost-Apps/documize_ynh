@@ -155,6 +155,8 @@ fi
 
 ynh_permission_create --permission="api" --url="/api" --allowed="visitors" --show_tile="false" --protected="true"
 
+ynh_permission_create --permission="auth" --url="/auth/login" --allowed="visitors" --show_tile="false" --protected="true"
+
 #=================================================
 # RELOAD NGINX
 #=================================================

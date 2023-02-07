@@ -5,15 +5,15 @@ It shall NOT be edited by hand.
 
 # Documize pour YunoHost
 
-[![Niveau d'intégration](https://dash.yunohost.org/integration/documize.svg)](https://dash.yunohost.org/appci/app/documize) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/documize.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/documize.maintain.svg)  
+[![Niveau d’intégration](https://dash.yunohost.org/integration/documize.svg)](https://dash.yunohost.org/appci/app/documize) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/documize.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/documize.maintain.svg)
 [![Installer Documize avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=documize)
 
 *[Read this readme in english.](./README.md)*
 
-> *Ce package vous permet d'installer Documize rapidement et simplement sur un serveur YunoHost.
-Si vous n'avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour savoir comment l'installer et en profiter.*
+> *Ce package vous permet d’installer Documize rapidement et simplement sur un serveur YunoHost.
+Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour savoir comment l’installer et en profiter.*
 
-## Vue d'ensemble
+## Vue d’ensemble
 
 Documize Community is an open source modern, lightweight alternative to Confluence and other similar solutions.
 
@@ -23,19 +23,19 @@ Documize Community is an open source modern, lightweight alternative to Confluen
 - Designed to unify both customer-facing and internal documentation
 - Organization through labels, spaces and categories
 
-**Version incluse :** 5.4.2~ynh1
+**Version incluse :** 5.5.0~ynh1
 
 **Démo :** https://docs.documize.com/
 
-## Captures d'écran
+## Captures d’écran
 
-![Capture d'écran de Documize](./doc/screenshots/screenshot.png)
+![Capture d’écran de Documize](./doc/screenshots/screenshot.png)
 
 ## Documentations et ressources
 
-* Site officiel de l'app : <https://www.documize.com>
-* Documentation officielle de l'admin : <https://docs.documize.com>
-* Dépôt de code officiel de l'app : <https://github.com/documize/community>
+* Site officiel de l’app : <https://www.documize.com>
+* Documentation officielle de l’admin : <https://docs.documize.com>
+* Dépôt de code officiel de l’app : <https://github.com/documize/community>
 * Documentation YunoHost pour cette app : <https://yunohost.org/app_documize>
 * Signaler un bug : <https://github.com/YunoHost-Apps/documize_ynh/issues>
 
@@ -51,4 +51,4 @@ ou
 sudo yunohost app upgrade documize -u https://github.com/YunoHost-Apps/documize_ynh/tree/testing --debug
 ```
 
-**Plus d'infos sur le packaging d'applications :** <https://yunohost.org/packaging_apps>
+**Plus d’infos sur le packaging d’applications :** <https://yunohost.org/packaging_apps>
