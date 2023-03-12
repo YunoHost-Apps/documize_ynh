@@ -1,0 +1,69 @@
+packaging_format = 2
+
+id = "documize"
+name = "Documize"
+description.en = "Modern Confluence alternative designed for internal & external docs"
+description.fr = "Alternative à Confluence conçue pour les documents internes et externes"
+
+version = "5.5.0~ynh1"
+
+maintainers = ["eric_G"]
+
+[upstream]
+license = "AGPL-3.0-only"
+website = "https://www.documize.com"
+demo = "https://docs.documize.com/"
+admindoc = "https://docs.documize.com"
+code = "https://github.com/documize/community"
+
+[integration]
+yunohost = ">= 11.1.15"
+architectures = ["amd64", "arm64", "armhf"]
+multi_instance = true
+ldap =  false
+sso =  false
+disk = "50M"
+ram.build = "50M"
+ram.runtime = "50M"
+
+[install]
+    [install.domain]
+    type = "domain"
+    full_domain = true
+
+    [install.init_main_permission]
+    type = "group"
+    default = "visitors"
+
+[resources]
+
+    [resources.sources]
+
+        [resources.sources.main]
+        amd64.url = "https://github.com/documize/community/releases/download/v5.5.0/documize-community-linux-amd64"
+        amd64.sha256 = "906ddd69c94a58d743f2818169670aa46ff9101d6270ea671556dabccc157f25"
+
+        arm64.url = "https://github.com/documize/community/releases/download/v5.5.0/documize-community-linux-arm64"
+        arm64.sha256 = "0c9efb78a85f6cbce35abae2356ab91498f8ec3f6786d69cf82ff25ef71cdcd8"
+
+        armhf.url = "https://github.com/documize/community/releases/download/v5.5.0/documize-community-linux-arm"
+        armhf.sha256 = "6d78614742147f8eeb13db7baf5f7c654c457974e351752ac12942d2d138688f"
+        
+        extract   = false
+        in_subdir = false
+        rename    = "documize"
+
+    [resources.system_user]
+
+    [resources.install_dir]
+
+    [resources.ports]
+
+    [resources.permissions]
+    main.url = "/"
+
+    [resources.apt]
+    packages = "postgresql"
+    
+    [resources.database]
+    type = "postgresql"

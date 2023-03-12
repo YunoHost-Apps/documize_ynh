@@ -1,13 +1,13 @@
 [Unit]
-Description=Documize
+Description=Documize: internal & external docs
 After=network.target
 
 [Service]
 Type=simple
 User=__APP__
 Group=__APP__
-WorkingDirectory=__FINALPATH__/
-ExecStart=__FINALPATH__/documize
+WorkingDirectory=__INSTALL_DIR__/
+ExecStart=__INSTALL_DIR__/documize
 
 
 # Sandboxing options to harden security
