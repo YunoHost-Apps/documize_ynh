@@ -51,9 +51,9 @@ ram.runtime = "50M"
         rename    = "documize"
 
         autoupdate.strategy = "latest_github_release"
-        autoupdate.asset.amd64 = ".*/documize-community-linux-amd64"
-        autoupdate.asset.arm64 = ".*/documize-community-linux-arm64"
-        autoupdate.asset.armhf = ".*/documize-community-linux-arm"
+        autoupdate.asset.amd64 = "documize-community-linux-amd64"
+        autoupdate.asset.arm64 = "documize-community-linux-arm64"
+        autoupdate.asset.armhf = "documize-community-linux-arm"
 
     [resources.system_user]
 
