@@ -17,7 +17,7 @@ admindoc = "https://docs.documize.com"
 code = "https://github.com/documize/community"
 
 [integration]
-yunohost = ">= 11.1.16"
+yunohost = ">= 11.1.17"
 architectures = ["amd64", "arm64", "armhf"]
 multi_instance = true
 ldap =  false
