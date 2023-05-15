@@ -17,7 +17,7 @@ admindoc = "https://docs.documize.com"
 code = "https://github.com/documize/community"
 
 [integration]
-yunohost = ">= 11.1.17"
+yunohost = ">= 11.1.19"
 architectures = ["amd64", "arm64", "armhf"]
 multi_instance = true
 ldap =  false
@@ -40,12 +40,12 @@ ram.runtime = "50M"
     [resources.sources]
 
         [resources.sources.main]
-        amd64.url = "https://github.com/documize/community/releases/download/v5.5.0/documize-community-linux-amd64"
-        amd64.sha256 = "906ddd69c94a58d743f2818169670aa46ff9101d6270ea671556dabccc157f25"
-        arm64.url = "https://github.com/documize/community/releases/download/v5.5.0/documize-community-linux-arm64"
-        arm64.sha256 = "0c9efb78a85f6cbce35abae2356ab91498f8ec3f6786d69cf82ff25ef71cdcd8"
-        armhf.url = "https://github.com/documize/community/releases/download/v5.5.0/documize-community-linux-arm"
-        armhf.sha256 = "6d78614742147f8eeb13db7baf5f7c654c457974e351752ac12942d2d138688f"
+        amd64.url = "https://github.com/documize/community/releases/download/v5.7.0/documize-community-linux-amd64"
+        amd64.sha256 = "b0a139b25e8e0650b0ca961d79034efafa7da464eb888277ec90ffab6622fa67"
+        arm64.url = "https://github.com/documize/community/releases/download/v5.7.0/documize-community-linux-arm64"
+        arm64.sha256 = "16db247cb74f81f9ae86664f67c0f07ecbb9a42914438a3537885de067554394"
+        armhf.url = "https://github.com/documize/community/releases/download/v5.7.0/documize-community-linux-arm"
+        armhf.sha256 = "6c35960b3ec74674d33574086d083b918e519cfca80e0dafbdeb9b960bace483"
         extract   = false
         in_subdir = false
         rename    = "documize"
