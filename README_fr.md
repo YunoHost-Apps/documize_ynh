@@ -24,7 +24,7 @@ Documize Community is an open source modern, lightweight alternative to Confluen
 - Designed to unify both customer-facing and internal documentation
 - Organization through labels, spaces and categories
 
-**Version incluse :** 5.8.0~ynh2
+**Version incluse :** 5.9.0~ynh2
 
 **Démo :** https://docs.documize.com/
 
