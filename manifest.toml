@@ -2,7 +2,7 @@ packaging_format = 2
 
 id = "documize"
 name = "Documize"
-description.en = "Modern Confluence alternative designed for internal & external docs"
+description.en = "Confluence alternative designed for internal & external docs"
 description.fr = "Alternative à Confluence conçue pour les documents internes et externes"
 
 version = "5.9.0~ynh2"
