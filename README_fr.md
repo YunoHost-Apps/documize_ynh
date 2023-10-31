@@ -37,7 +37,7 @@ Documize Community is an open source modern, lightweight alternative to Confluen
 * Site officiel de l’app : <https://www.documize.com>
 * Documentation officielle de l’admin : <https://docs.documize.com>
 * Dépôt de code officiel de l’app : <https://github.com/documize/community>
-* Documentation YunoHost pour cette app : <https://yunohost.org/app_documize>
+* YunoHost Store: <https://apps.yunohost.org/app/documize>
 * Signaler un bug : <https://github.com/YunoHost-Apps/documize_ynh/issues>
 
 ## Informations pour les développeurs
