@@ -16,13 +16,14 @@ Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) po
 
 ## Vue d’ensemble
 
-Documize Community is an open source modern, lightweight alternative to Confluence and other similar solutions.
+Documize Community est une alternative open source moderne et légère à Confluence et à d'autres solutions similaires.
 
-### Features
+### Caractéristiques
 
-- Built for technical and non-technical users
-- Designed to unify both customer-facing and internal documentation
-- Organization through labels, spaces and categories
+- Conçu pour les utilisateurs techniques et non techniques
+- Conçu pour unifier la documentation destinée aux clients et la documentation interne
+- Organisation à travers des étiquettes, des espaces et des catégories
+
 
 **Version incluse :** 5.9.0~ynh2
 
