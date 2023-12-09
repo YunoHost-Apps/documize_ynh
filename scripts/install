@@ -45,7 +45,7 @@ yunohost service add $app --description="Internal & external docs" --log="/var/l
 #=================================================
 ynh_script_progression --message="Adding a configuration file..." --weight=1
 
-ynh_add_config --template="../conf/documize.conf" --destination="$install_dir/documize.conf"
+ynh_add_config --template="documize.conf" --destination="$install_dir/documize.conf"
 
 chmod 400 "$install_dir/documize.conf"
 chown $app:$app "$install_dir/documize.conf"
