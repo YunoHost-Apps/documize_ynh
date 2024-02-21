@@ -5,7 +5,7 @@ name = "Documize"
 description.en = "Confluence alternative designed for internal & external docs"
 description.fr = "Alternative à Confluence conçue pour les documents internes et externes"
 
-version = "5.11.1~ynh1"
+version = "5.11.3~ynh1"
 
 maintainers = ["eric_G"]
 
@@ -42,12 +42,12 @@ ram.runtime = "50M"
     [resources.sources]
 
         [resources.sources.main]
-        amd64.url = "https://github.com/documize/community/releases/download/v5.11.1/documize-community-linux-amd64"
-        amd64.sha256 = "8afc9988c2680875e90b65cf95fad08e2ab85b2c01389edb1da89d32f9febd4a"
-        arm64.url = "https://github.com/documize/community/releases/download/v5.11.1/documize-community-linux-arm64"
-        arm64.sha256 = "8b7809f026bc42ea6e73440d45ee7f67206c0d3b254480d23b5b05c7382cc1cc"
-        armhf.url = "https://github.com/documize/community/releases/download/v5.11.1/documize-community-linux-arm"
-        armhf.sha256 = "30eb106e89a710fdc4891df8870b7135a3eaf52289460aa27ce25bb617a6c218"
+        amd64.url = "https://github.com/documize/community/releases/download/v5.11.3/documize-community-linux-amd64"
+        amd64.sha256 = "fe79981d4b9c6d528d9ff0f34566da5447767c13da5c5635d059a27d4b2e5734"
+        arm64.url = "https://github.com/documize/community/releases/download/v5.11.3/documize-community-linux-arm64"
+        arm64.sha256 = "a6ac62ee61d18f8cbac28b7d1715364967738ed34b4141cca1f44f1c70e1fd3e"
+        armhf.url = "https://github.com/documize/community/releases/download/v5.11.3/documize-community-linux-arm"
+        armhf.sha256 = "122c707606cfa39bc26237e98598eadc7ae0851121b5b1017b865f2c4bd10046"
         extract   = false
         in_subdir = false
         rename    = "documize"
