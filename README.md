@@ -9,7 +9,7 @@ It shall NOT be edited by hand.
 
 [![Install Documize with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=documize)
 
-*[Read this README is other languages.](./ALL_README.md)*
+*[Read this README in other languages.](./ALL_README.md)*
 
 > *This package allows you to install Documize quickly and simply on a YunoHost server.*  
 > *If you don't have YunoHost, please consult [the guide](https://yunohost.org/install) to learn how to install it.*
@@ -24,7 +24,7 @@ Documize Community is an open source modern, lightweight alternative to Confluen
 - Designed to unify both customer-facing and internal documentation
 - Organization through labels, spaces and categories
 
-**Shipped version:** 5.11.3~ynh1
+**Shipped version:** 5.12.0~ynh1
 
 **Demo:** <https://docs.documize.com/>
 
