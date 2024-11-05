@@ -5,7 +5,7 @@
 
 # YunoHost 上的 Documize
 
-[![集成程度](https://dash.yunohost.org/integration/documize.svg)](https://dash.yunohost.org/appci/app/documize) ![工作状态](https://ci-apps.yunohost.org/ci/badges/documize.status.svg) ![维护状态](https://ci-apps.yunohost.org/ci/badges/documize.maintain.svg)
+[![集成程度](https://dash.yunohost.org/integration/documize.svg)](https://ci-apps.yunohost.org/ci/apps/documize/) ![工作状态](https://ci-apps.yunohost.org/ci/badges/documize.status.svg) ![维护状态](https://ci-apps.yunohost.org/ci/badges/documize.maintain.svg)
 
 [![使用 YunoHost 安装 Documize](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=documize)
 

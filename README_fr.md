@@ -5,7 +5,7 @@ Il NE doit PAS être modifié à la main.
 
 # Documize pour YunoHost
 
-[![Niveau d’intégration](https://dash.yunohost.org/integration/documize.svg)](https://dash.yunohost.org/appci/app/documize) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/documize.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/documize.maintain.svg)
+[![Niveau d’intégration](https://dash.yunohost.org/integration/documize.svg)](https://ci-apps.yunohost.org/ci/apps/documize/) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/documize.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/documize.maintain.svg)
 
 [![Installer Documize avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=documize)
 

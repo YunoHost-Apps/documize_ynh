@@ -5,7 +5,7 @@ No se debe editar a mano.
 
 # Documize para Yunohost
 
-[![Nivel de integración](https://dash.yunohost.org/integration/documize.svg)](https://dash.yunohost.org/appci/app/documize) ![Estado funcional](https://ci-apps.yunohost.org/ci/badges/documize.status.svg) ![Estado En Mantención](https://ci-apps.yunohost.org/ci/badges/documize.maintain.svg)
+[![Nivel de integración](https://dash.yunohost.org/integration/documize.svg)](https://ci-apps.yunohost.org/ci/apps/documize/) ![Estado funcional](https://ci-apps.yunohost.org/ci/badges/documize.status.svg) ![Estado En Mantención](https://ci-apps.yunohost.org/ci/badges/documize.maintain.svg)
 
 [![Instalar Documize con Yunhost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=documize)
 
@@ -42,7 +42,7 @@ Documize Community is an open source modern, lightweight alternative to Confluen
 
 ## Información para desarrolladores
 
-Por favor enviar sus correcciones a la [`branch testing`](https://github.com/YunoHost-Apps/documize_ynh/tree/testing
+Por favor enviar sus correcciones a la [rama `testing`](https://github.com/YunoHost-Apps/documize_ynh/tree/testing).
 
 Para probar la rama `testing`, sigue asÍ:
 
