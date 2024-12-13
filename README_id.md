@@ -5,7 +5,9 @@ Ini TIDAK boleh diedit dengan tangan.
 
 # Documize untuk YunoHost
 
-[![Tingkat integrasi](https://dash.yunohost.org/integration/documize.svg)](https://ci-apps.yunohost.org/ci/apps/documize/) ![Status kerja](https://ci-apps.yunohost.org/ci/badges/documize.status.svg) ![Status pemeliharaan](https://ci-apps.yunohost.org/ci/badges/documize.maintain.svg)
+[![Tingkat integrasi](https://apps.yunohost.org/badge/integration/documize)](https://ci-apps.yunohost.org/ci/apps/documize/)
+![Status kerja](https://apps.yunohost.org/badge/state/documize)
+![Status pemeliharaan](https://apps.yunohost.org/badge/maintained/documize)
 
 [![Pasang Documize dengan YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=documize)
 

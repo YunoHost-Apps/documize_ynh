@@ -5,7 +5,9 @@
 
 # Documize для YunoHost
 
-[![Уровень интеграции](https://dash.yunohost.org/integration/documize.svg)](https://ci-apps.yunohost.org/ci/apps/documize/) ![Состояние работы](https://ci-apps.yunohost.org/ci/badges/documize.status.svg) ![Состояние сопровождения](https://ci-apps.yunohost.org/ci/badges/documize.maintain.svg)
+[![Уровень интеграции](https://apps.yunohost.org/badge/integration/documize)](https://ci-apps.yunohost.org/ci/apps/documize/)
+![Состояние работы](https://apps.yunohost.org/badge/state/documize)
+![Состояние сопровождения](https://apps.yunohost.org/badge/maintained/documize)
 
 [![Установите Documize с YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=documize)
 
