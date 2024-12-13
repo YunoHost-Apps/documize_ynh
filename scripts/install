@@ -38,9 +38,6 @@ ynh_script_progression "Adding $app's configuration..."
 
 ynh_config_add --template="documize.conf" --destination="$install_dir/documize.conf"
 
-chmod 400 "$install_dir/documize.conf"
-chown $app:$app "$install_dir/documize.conf"
-
 #=================================================
 # START SYSTEMD SERVICE
 #=================================================
