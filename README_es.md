@@ -5,7 +5,9 @@ No se debe editar a mano.
 
 # Documize para Yunohost
 
-[![Nivel de integración](https://dash.yunohost.org/integration/documize.svg)](https://ci-apps.yunohost.org/ci/apps/documize/) ![Estado funcional](https://ci-apps.yunohost.org/ci/badges/documize.status.svg) ![Estado En Mantención](https://ci-apps.yunohost.org/ci/badges/documize.maintain.svg)
+[![Nivel de integración](https://apps.yunohost.org/badge/integration/documize)](https://ci-apps.yunohost.org/ci/apps/documize/)
+![Estado funcional](https://apps.yunohost.org/badge/state/documize)
+![Estado En Mantención](https://apps.yunohost.org/badge/maintained/documize)
 
 [![Instalar Documize con Yunhost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=documize)
 
@@ -24,7 +26,7 @@ Documize Community is an open source modern, lightweight alternative to Confluen
 - Designed to unify both customer-facing and internal documentation
 - Organization through labels, spaces and categories
 
-**Versión actual:** 5.12.0~ynh2
+**Versión actual:** 5.13.0~ynh1
 
 **Demo:** <https://docs.documize.com/>
 
