@@ -27,7 +27,7 @@ Documize Community est une alternative open source moderne et légère à Conflu
 - Organisation à travers des étiquettes, des espaces et des catégories
 
 
-**Version incluse :** 5.12.0~ynh2
+**Version incluse :** 5.13.0~ynh1
 
 **Démo :** <https://docs.documize.com/>
 
