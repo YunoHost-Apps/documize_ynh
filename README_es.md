@@ -3,7 +3,7 @@ Este archivo README esta generado automaticamente<https://github.com/YunoHost/ap
 No se debe editar a mano.
 -->
 
-# Documize para Yunohost
+# Documize para YunoHost
 
 [![Nivel de integración](https://apps.yunohost.org/badge/integration/documize)](https://ci-apps.yunohost.org/ci/apps/documize/)
 ![Estado funcional](https://apps.yunohost.org/badge/state/documize)

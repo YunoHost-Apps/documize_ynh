@@ -46,7 +46,7 @@ Documize Community is an open source modern, lightweight alternative to Confluen
 
 Bidali `pull request`a [`testing` abarrera](https://github.com/YunoHost-Apps/documize_ynh/tree/testing).
 
-`testing` abarra probatzeko, ondorengoa egin:
+`testing` abarra probatzeko, honakoa egin:
 
 ```bash
 sudo yunohost app install https://github.com/YunoHost-Apps/documize_ynh/tree/testing --debug
